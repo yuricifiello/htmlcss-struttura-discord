@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.header.top {
+  background-color: hsl(195.52deg 54.72% 79.22%);
+}
+
+.header.top > .container {
+  min-height: 300px;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(218 165 30);
+}
